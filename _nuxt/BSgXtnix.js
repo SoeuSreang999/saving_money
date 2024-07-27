@@ -1,1 +1,0 @@
-import{_ as o}from"./CekfbYYp.js";import{_ as s,c as n,d as e,a,b as c,w as _,o as r}from"./Dn4e9waC.js";const d={},i={class:"p-4 bg-blue-700 text-white"};function l(u,x){const t=o;return r(),n("div",i,[e(" Hello, Tailwind CSS! segtwet "),a("div",null,[c(t,{to:"/users"},{default:_(()=>[e("Users")]),_:1})])])}const p=s(d,[["render",l]]);export{p as default};

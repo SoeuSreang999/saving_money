@@ -1,0 +1,1 @@
+import{_ as o}from"./5s-4YjdQ.js";import{_ as s,c,d as e,a as n,b as a,w as _,o as r}from"./BWfaDAFq.js";const d={},i={class:"p-4 bg-blue-700 text-white"};function l(m,x){const t=o;return r(),c("div",i,[e(" Users "),n("div",null,[a(t,{to:"/"},{default:_(()=>[e("Home")]),_:1})])])}const u=s(d,[["render",l]]);export{u as default};
